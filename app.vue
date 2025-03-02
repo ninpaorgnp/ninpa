@@ -1,11 +1,14 @@
 <template>
   <div>
     <SiteHeader />
-    <div class="container mx-auto">
-      <HomeCarousel />
-    </div>
-    <section class="container mx-auto">
-      <SortMe />
-    </section>
+    <NuxtPage />
+    <SiteFooter />
   </div>
 </template>
+<script setup>
+useHead({
+  htmlAttrs: {
+    lang: 'en',
+  }
+})
+</script>
