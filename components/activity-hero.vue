@@ -11,7 +11,7 @@
             <!-- Card -->
             <a v-for="activity of activites" :key="activity.text"
                 class="group flex gap-y-6 size-full hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg p-5"
-                href="#">
+                href="#" :title="activity.title">
                 <img :src="`/${activity.year}.png`" alt="Image" class="size-12 mr-2" />
 
                 <div>
