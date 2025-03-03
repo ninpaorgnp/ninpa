@@ -17,22 +17,22 @@
                 <div class="mt-3 grid space-y-3 text-sm">
                     <p>
                         <NuxtLink
-                            class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                            class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="/about">About</NuxtLink>
                     </p>
                     <p>
                         <NuxtLink
-                            class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                            class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="/activities">Activities</NuxtLink>
                     </p>
                     <p>
                         <NuxtLink
-                            class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                            class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="/blog">Blog Articles</NuxtLink>
                     </p>
                     <p>
                         <NuxtLink
-                            class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                            class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="/notifications">Notifications</NuxtLink>
                     </p>
                 </div>
@@ -43,24 +43,30 @@
                 <h4 class="text-xs font-semibold text-gray-50 uppercase">Related Links</h4>
 
                 <div class="mt-3 grid space-y-3 text-sm">
-                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="https://greenforum.com.np" target="_blank">Green Forum</a></p>
-                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="https://cbd.int" target="_blank">Biodiversity Convention</a></p>
-                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="https://unfccc.int/" target="_blank">UN Climate Change</a></p>
-                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="https://www.unccd.int/" target="_blank">UNCCD</a></p>
-                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="https://www.ramsar.org/" target="_blank">Ramsar Convention</a></p>
-                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                    <p><a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="https://www.wipo.int/" target="_blank">World Intellectual Property Organization</a>
                     </p>
                     <p>
-                        <a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-800 focus:outline-none focus:text-gray-800"
-                            href="https://www.iibf.org.in/" target="_blank">IIBF</a>
-
-
+                        <a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
+                            href="https://iifb-indigenous.org/" target="_blank">IIBF</a>
+                    </p>
+                    <p>
+                        <a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
+                            href="https://ipbes.net/" target="_blank">IPBES</a>
+                    </p>
+                    <p>
+                        <a class="inline-flex gap-x-2 text-gray-100 hover:text-gray-400 focus:outline-none focus:text-gray-400"
+                            href="https://satoyamainitiative.org/" target="_blank">Satoyama Initiative</a>
                     </p>
                 </div>
             </div>
@@ -94,9 +100,9 @@
 
 
                     <div class="space-x-4 text-sm">
-                        <a class="inline-flex gap-x-2 text-yellow-400 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                        <a class="inline-flex gap-x-2 text-yellow-400 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="#">Terms</a>
-                        <a class="inline-flex gap-x-2 text-yellow-400 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                        <a class="inline-flex gap-x-2 text-yellow-400 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="#">Privacy</a>
                         <span> © 2025 NINPA.</span>
                     </div>
@@ -104,7 +110,7 @@
 
                 <div class="flex flex-wrap justify-between items-center gap-3">
                     <div class="space-x-4">
-                        <a class="inline-block text-gray-500 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                        <a class="inline-block text-gray-500 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="#" title="Twitter">
                             <svg xmlns="http://www.w3.org/1000/svg" width="24" height="24" viewBox="0 0 24 24"
                                 style="fill: #eeeeee">
@@ -113,7 +119,7 @@
                                 </path>
                             </svg>
                         </a>
-                        <a class="inline-block text-gray-500 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                        <a class="inline-block text-gray-500 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="#" title="Facebook">
                             <svg xmlns="http://www.w3.org/1000/svg" width="24" height="24" viewBox="0 0 24 24"
                                 style="fill: rgba(238, 238, 238, 1);">
@@ -122,7 +128,7 @@
                                 </path>
                             </svg>
                         </a>
-                        <a class="inline-block text-gray-500 hover:text-gray-800 focus:outline-none focus:text-gray-800"
+                        <a class="inline-block text-gray-500 hover:text-gray-400 focus:outline-none focus:text-gray-400"
                             href="#" title="Instagram">
                             <svg xmlns="http://www.w3.org/1000/svg" width="24" height="24" viewBox="0 0 24 24"
                                 style="fill: rgba(238, 238, 238, 1);">

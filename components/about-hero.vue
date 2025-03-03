@@ -4,10 +4,10 @@
         <h1 class="block text-2xl w-full text-center text-gray-800  lg:text-4xl pb-8 dark:text-white">
             Nepal Indigenous Nationalities Preservation Association (NINPA)</h1>
         <!-- Grid -->
-        <div class="grid lg:grid-cols-7 lg:gap-x-8 xl:gap-x-12 lg:items-center">
-            <div class="lg:col-span-3">
+        <div class="grid lg:grid-cols-7 lg:gap-x-8 xl:gap-x-12 lg:items-start">
+            <div class="lg:col-span-4">
 
-                <div class="text-lg text-gray-800 dark:text-neutral-400">
+                <div class="text-md text-gray-800 dark:text-neutral-400">
                     <div class="mb-3">NINPA is an organization established
                         in 2003, dedicated to the preservation and promotion of the cultural, social, and economic
                         rights of
@@ -38,8 +38,8 @@
             </div>
             <!-- End Col -->
 
-            <div class="lg:col-span-4 mt-10 lg:mt-0">
-                <img class="rounded-md w-[550px]" src="/about.webp" alt="Ninpa">
+            <div class="lg:col-span-3 mt-10 lg:mt-0">
+                <img class="rounded-sm w-full" src="/about_ninpa.webp" alt="Ninpa">
             </div>
             <!-- End Col -->
         </div>

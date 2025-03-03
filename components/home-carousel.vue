@@ -31,14 +31,14 @@
                 <!-- Second slide -->
                 <div class="hs-carousel-slide">
                     <div class="flex justify-center h-full relative">
-                        <img src="/slides/s2.webp" alt="Ninpa" class="h-[550px] w-auto object-cover">
+                        <img src="/slides/ss2.webp" alt="Ninpa" class="h-[550px] w-auto object-cover">
                     </div>
                 </div>
 
                 <!-- Third slide -->
                 <div class="hs-carousel-slide">
                     <div class="flex justify-center h-full relative">
-                        <img src="/slides/s3.webp" alt="Ninpa" class="h-[550px] w-auto object-cover">
+                        <img src="/slides/ss3.webp" alt="Ninpa" class="h-[550px] w-auto object-cover">
                     </div>
                 </div>
             </div>

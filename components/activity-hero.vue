@@ -11,13 +11,13 @@
             <!-- Card -->
             <a v-for="activity of activites" :key="activity.text"
                 class="group flex gap-y-6 size-full hover:bg-gray-100 focus:outline-none focus:bg-gray-100 rounded-lg p-5"
-                href="#" :title="activity.title">
+                href="/activities" :title="activity.title">
                 <img :src="`/${activity.year}.png`" alt="Image" class="size-12 mr-2" />
 
                 <div>
                     <div>
-                        <h3 class="block text-gray-800 text-xl mb-1">{{ activity.title }}</h3>
-                        <p class="text-gray-600">{{ activity.text }}</p>
+                        <h3 class="block text-gray-800 text-xl">{{ activity.title }}</h3>
+                        <p class="text-gray-700">{{ activity.text }}</p>
                     </div>
 
                     <div class="mt-3 inline-flex items-center gap-x-1 text-sm font-semibold text-gray-800">
