@@ -39,7 +39,7 @@
             <!-- End Col -->
 
             <div class="lg:col-span-4 mt-10 lg:mt-0">
-                <img class="w-full rounded-xl" src="/about.webp" alt="Ninpa">
+                <img class="rounded-md w-[550px]" src="/about.webp" alt="Ninpa">
             </div>
             <!-- End Col -->
         </div>
