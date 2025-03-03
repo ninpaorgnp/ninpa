@@ -11,4 +11,7 @@ export default defineNuxtConfig({
   // }
 
   plugins: ["~/plugins/preline.client.ts"],
+  nitro: {
+    preset: 'cloudflare-pages'
+  }
 })
